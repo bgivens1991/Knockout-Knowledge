@@ -5,8 +5,3 @@ This was a class project; we chose to create a game that was both fun but also e
 https://www.dropbox.com/sh/mkcpek0g1b2dbn1/AAAj5G9t0NaJ4D69rAIgcWY_a?dl=0
 
 
-# Summary
-
-Your knowledge is the only way you’ll succeed in your pursuit of the Bachelor’s Degree. Regenerating health, power ups and
-special moves all require the student to answer questions from what they’ve learned from lessons that are discovered while
-moving through the game. Bosses are only able to be defeated by proving your knowledge.
